@@ -12,6 +12,8 @@
 <p>This XSeries requires a programming background and experience with Python. All exercises will use PySpark (part of Apache Spark). Familiarity with basic machine learning concepts and exposure to algorithms, probability, linear algebra and calculus are prerequisites for the second course in this series. </p>
 
 <p>This XSeries consists of 2 courses:</p>
+<ol>
+<li>Introduction to Big Data with Apache Spark</li>
+<li>Scalable Machine Learning</li>
+</ol>
 
-<p>Introduction to Big Data with Apache Spark 
-Scalable Machine Learning</p>
