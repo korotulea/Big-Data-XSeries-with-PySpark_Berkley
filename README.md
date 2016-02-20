@@ -9,7 +9,9 @@
 
 <p>This XSeries consists of 2 courses:
 <ol>
-<li>Introduction to Big Data with Apache Spark</li>
-<li>Scalable Machine Learning</li>
+<li>Introduction to Big Data with Apache Spark
+<br>Certificate: https://s3.amazonaws.com/verify.edx.org/downloads/a36a75374ca34c0a9b735c1cbf04aa60/Certificate.pdf</li>
+<li>Scalable Machine Learning
+<br>Certificate: https://s3.amazonaws.com/verify.edx.org/downloads/0cbc2b3e583c4ef38aab8de7bb3cbcd7/Certificate.pdf</li>
 </ol>
 </p>
