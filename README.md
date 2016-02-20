@@ -16,4 +16,3 @@
 <br>Certificate: https://s3.amazonaws.com/verify.edx.org/downloads/0cbc2b3e583c4ef38aab8de7bb3cbcd7/Certificate.pdf</li>
 </ol>
 </p>
-
